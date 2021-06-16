@@ -1,5 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	a+b
+	return a+b;
+}
+void sum(int a, int b, int c)
+{
+	return a+b+c;
 }
