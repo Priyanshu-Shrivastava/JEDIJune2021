@@ -14,4 +14,3 @@ void hello()
 	printf("HHello world");
 }
 
-dd
